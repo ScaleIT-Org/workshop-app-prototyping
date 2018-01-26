@@ -1,8 +1,13 @@
 # ScaleIT App Prototyping Kit for Workshops
 
-Here you will find the complete kit for prototyping ScaleIT Apps. It's open source, please feel free to use and modify.
+Here you will find the complete kit for prototyping ScaleIT Apps. It's open source, please feel free to use, modify and make contributions.
 
-![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/App%20Prototype%20Kit%20v01.jpg)
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+|  ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/origami_1.jpg)    | ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/origami_2.jpg) |  ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/printed_kit.jpg) |
+
+![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/completed_kit_2.jpg)
+
 
 ## Materialien 
 
@@ -22,6 +27,8 @@ Pro Gruppe:
 * 1x Schere
 * 1x Recycling Schale
 * 1x Prototyping Materials.pptx ausdrucken
+* 2 Blatt Weisses Papier
+* 2 Transparente A4 Blätter (z.B. Overhead Folien)
 
 Zusatzmaterial:
 * 1x Extra Schere pro Gruppe
