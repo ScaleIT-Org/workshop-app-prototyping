@@ -2,8 +2,8 @@
 
 Here you will find the complete kit for prototyping ScaleIT Apps. It's open source, please feel free to use, modify and make contributions.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Let's start        | Origami's done           | Let's start gluing  |
+| ------------- |:-------------:| :-----:|
 |  ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/origami_1.jpg)    | ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/origami_2.jpg) |  ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/printed_kit.jpg) |
 
 ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/completed_kit_2.jpg)
