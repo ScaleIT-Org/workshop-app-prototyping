@@ -40,3 +40,9 @@ Zusatzmaterial:
 Rollen, Maschinen, Szenario => Digitalisieren + Verbessern
 Was ist das tolle and der App?
 Painpoints?
+
+------------------------
+
+MIT License
+
+Copyright (c) 2017 ScaleIT, Andrei Miclaus, Laura Halbmann
