@@ -9,37 +9,38 @@ Here you will find the complete kit for prototyping ScaleIT Apps. It's open sour
 ![](https://github.com/ScaleIT-Org/workshop-app-prototyping/raw/master/images/completed_kit_2.jpg)
 
 
-## Materialien 
+## Materials 
 
-Liste der Komponenten (wie bei Kochbücher).
+List of components (as cooking recipes).
 
-Wenn man einen Workshop machen will mit 6 Personen (2 Gruppen a 3 Personen), dann muss man folgendes ausdrucken und bereitstellen:
+If you want to do a workshop with 6 people, we recommend to divide into two groups of three persons. 
 
-Pro Gruppe:
+For each group you have to provide the following:
+* 1x cardboard box (size: A1)
+* 1x Tipp-Ex, 1x Tesa gluing mouse
+* 3x Edding Office Liner or equivalent drawing pen in black
+* 3x Edding Office Liner or equivalent drawing pen in different colour
+* 1x Highlighter 
+* 3x Marker Black 
+* 1x red marker
+* 1x pair of scissors
+* 1x recycling bowl
 
-* 1x Pappkarton A1
-* 1x Tipp-Ex, 1x Tesa Maus Klebroller
-* Edding Office Liner or equivalent drawing pen (1x pro Person in der Gruppe) black
-* 3x Edding Office Liner or equivalent drawing pen in unterschiedlichen Farben
-* 1x Highlighter in 1 Farbe
-* Marker Schwarz (1x pro Person)
-* 1x Roter Marker
-* 1x Schere
-* 1x Recycling Schale
-* 1x Prototyping Materials.pptx ausdrucken
-* 2 Blatt Weisses Papier
-* 2 Transparente A4 Blätter (z.B. Overhead Folien)
+For each group you have to print the following:
+* 1x Prototyping Materials.pptx
 
-Zusatzmaterial:
-* 1x Extra Schere pro Gruppe
-* 1x als Reserve alles was eine Gruppe bräuchte
-* 2-3x UI Folien (Section UI aus Prototyping Materials.pptx) drucken zum Austeilen auf Anfrage
+Additional material:
+* 2x white paper A4 sheets
+* 2x transparent A4 sheets (for example overhead transparencies)
+* 1x extra pair of scissors per group
+* 1x reserve total Prototyping Kit including the material
+* 2x printed User-Interface-slides from UI-Section of Prototyping Materials.pptx. For on request distribution
 
-## Workshop Ablaufplan
 
-Rollen, Maschinen, Szenario => Digitalisieren + Verbessern
-Was ist das tolle and der App?
-Painpoints?
+## Workshop Schedule
+
+Roles, Machines, Scenario --> Digitalize & Improve
+What are the great things about the app? What are the pain points?
 
 ------------------------
 
