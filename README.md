@@ -36,6 +36,8 @@ Additional material:
 * 1x reserve total Prototyping Kit including the material
 * 2x printed User-Interface-slides from UI-Section of Prototyping Materials.pptx. For on request distribution
 
+Here you'll find the Instructions for the Origami pencil box (http://users.datarealm.com/hecht/origami/diags/box.pdf) and the Origami Recycling Box(https://www.origami-kunst.de/faltanleitungen/diagramme/multibox/).
+
 
 ## Workshop Schedule
 
