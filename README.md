@@ -27,7 +27,7 @@ For each group you have to provide the following:
 * 1x recycling bowl
 
 For each group you have to print the following:
-* 1x Prototyping Materials.pptx
+* 1x Prototyping Materials.pptx (Sources: https://www.userfocus.co.uk/resources/prototype.html & https://www.flaticon.com)
 
 Additional material:
 * 2x white paper A4 sheets
